@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MMMain.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMain.cpp.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMainCharacter.cpp.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMainGameMode.cpp.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMainHUD.cpp.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMainProjectile.cpp.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMain.init.gen.cpp.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMainCharacter.gen.cpp.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMainGameMode.gen.cpp.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMainHUD.gen.cpp.obj"
+"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\MMMain\MMMainProjectile.gen.cpp.obj"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\MMMain\PCLaunch.rc.res"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\projects\UProject\MM1OL\MMMain\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MMMain.lib"

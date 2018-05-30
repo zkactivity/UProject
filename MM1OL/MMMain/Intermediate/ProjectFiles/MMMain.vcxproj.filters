@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MMMain.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{7389CE63-6945-4194-98C0-28E6D69CDCE0}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MMMain.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MMMainEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{3E5D7EFF-2CE5-4B7B-A57A-CB2B06F5B86A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MMMain">
+			<UniqueIdentifier>{9B57B4B8-F2D4-4649-A2F6-9CA70CB00B15}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MMMain\MMMain.Build.cs">
+			<Filter>Source\MMMain</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MMMain\MMMain.cpp">
+			<Filter>Source\MMMain</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MMMain\MMMain.h">
+			<Filter>Source\MMMain</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MMMain\MMMainCharacter.cpp">
+			<Filter>Source\MMMain</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MMMain\MMMainCharacter.h">
+			<Filter>Source\MMMain</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MMMain\MMMainGameMode.cpp">
+			<Filter>Source\MMMain</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MMMain\MMMainGameMode.h">
+			<Filter>Source\MMMain</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MMMain\MMMainHUD.cpp">
+			<Filter>Source\MMMain</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MMMain\MMMainHUD.h">
+			<Filter>Source\MMMain</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MMMain\MMMainProjectile.cpp">
+			<Filter>Source\MMMain</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MMMain\MMMainProjectile.h">
+			<Filter>Source\MMMain</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
